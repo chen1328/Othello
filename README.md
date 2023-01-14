@@ -1,5 +1,5 @@
 # Othello
-Othello  
+two player game  
 
 ## Demo  
 
